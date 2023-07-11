@@ -29,6 +29,10 @@
         "zh_TW": {
             "name": "Chinese (TW)",
             "file": "zh_TW.json"
+        },
+        "tr_TR": {
+            "name": "Türkçe (TR)",
+            "file": "tr_TR.json"
         }
     }
 }
